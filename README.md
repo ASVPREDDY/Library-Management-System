@@ -26,7 +26,8 @@ A web-based Library Management System built using Python and Django to manage bo
 
 ## 📂 Project Structure
 
-librarymanagement/
+```
+librarymanagement/                                                                                                                        
 │── manage.py
 │── requirements.txt
 │── db.sqlite3
@@ -37,6 +38,7 @@ librarymanagement/
 │   └── asgi.py
 
 ---
+```
 
 ## ⚙️ Setup Instructions
 
